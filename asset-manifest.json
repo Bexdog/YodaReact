@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/YodaReact/static/css/main.76a2624f.css",
+    "main.js": "/YodaReact/static/js/main.b92cad09.js",
+    "static/js/787.c44c459f.chunk.js": "/YodaReact/static/js/787.c44c459f.chunk.js",
+    "static/media/yodaWOrange.png": "/YodaReact/static/media/yodaWOrange.fed161099dbfc31f8139.png",
+    "index.html": "/YodaReact/index.html",
+    "main.76a2624f.css.map": "/YodaReact/static/css/main.76a2624f.css.map",
+    "main.b92cad09.js.map": "/YodaReact/static/js/main.b92cad09.js.map",
+    "787.c44c459f.chunk.js.map": "/YodaReact/static/js/787.c44c459f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76a2624f.css",
+    "static/js/main.b92cad09.js"
+  ]
+}
